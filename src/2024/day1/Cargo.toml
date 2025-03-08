@@ -1,0 +1,10 @@
+[package]
+name = "fun_cursor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "fun_cursor"
+path = "FunCursor/main.rs"
